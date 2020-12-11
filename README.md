@@ -1,4 +1,4 @@
-# ccc
+# ts全局监视报错定位输出
 # only Gods know my code
     //全局错误信息同步
     listenErrorInfoTips(){
